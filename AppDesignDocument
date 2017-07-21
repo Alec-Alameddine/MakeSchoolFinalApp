@@ -35,10 +35,10 @@ Different tabs for adding/accepting friends, depositing money/authenticating wit
 ### Technical
 
 #### Screens
-* [list the different screens used in the app]
+see Experience
 
 #### External services
-* [list which APIs or external services will your app use?]
+PayPal API or any simpler, similar API for withdrawing and distributing money from and to users
 
 #### Views, View Controllers, and other Classes
 * Views
