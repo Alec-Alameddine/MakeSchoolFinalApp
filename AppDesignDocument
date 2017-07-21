@@ -20,13 +20,13 @@
 ### App Design
 
 #### Objective
-[explain the goal of the app]
+Allow for people to keep track of money they owe to others and money owed to them, and pay it back once they have enough money (using a 'pay all' feature, or paying each specifically). One would also be allowed to pay IRL and if both parties agree that this has happened, the person to whom money is owed may waive the charge.
 
 #### Audience
-[who is this app targeting?]
+Due to the inherent insecurity of "owingness," this app is intended for use between friends and reliably trustable people. It will mostly be used between children, because adults generally don't borrow small sums of money without having enough to pay it back immediatley.
 
 #### Experience
-[how will your users interact with this app?]
+Different tabs for adding/accepting friends, depositing money/authenticating with a payment api, marking money owed/recieved, and a dashboard to keep track of all money you owe, and all money owed to you.
 
 [Back to top ^](#)
 
